@@ -1,5 +1,4 @@
 dsfjadf
 sdfs
 djfajd
-
-adjfajdfjdhffd
+conflict resolved!
